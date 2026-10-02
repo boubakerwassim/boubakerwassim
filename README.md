@@ -1,93 +1,64 @@
-# 👋 Hi, I'm Wassim Boubaker
+# Hi, I'm Wassim Boubaker 👋
 
-## 🔍 QA Automation Engineer | Playwright | Selenium | API Testing | Java | ISTQB CTFL | Berlin 🇩🇪
+**QA Engineer / Softwaretester · Test Automation Engineer · ISTQB CTFL v4.0 · Berlin 🇩🇪**
 
-Passionate QA Automation Engineer with experience in manual and automated software testing. I enjoy building reliable test automation frameworks, validating REST APIs, and improving software quality through modern QA practices, CI/CD, and Agile development.
+ISTQB-certified QA Engineer with ~1.5 years of hands-on experience in **manual testing and test automation** of web and API applications in agile Scrum teams. I build maintainable UI test suites with **Playwright, Selenium and Cypress**, test REST APIs with **Postman and REST-Assured**, and run tests in **CI/CD pipelines**.
+
+> 🇩🇪 Deutsch C1 · 🇬🇧 English B2 · 🇫🇷 Français B2 · Arabic (native)
+> 📍 Berlin – open to roles across Germany (on-site, hybrid, remote) · available immediately
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 What I do
 
-### Test Automation
+- **Manual & exploratory testing** of new features from the user's perspective
+- **Test case design** from user stories and requirements (120+ documented test cases)
+- **Regression, smoke and end-to-end tests**, manual and automated
+- **UI test automation** with Playwright, Selenium and Cypress (Page Object Model, BDD/Cucumber)
+- **API testing** with Postman and REST-Assured
+- **CI/CD integration** with GitHub Actions, GitLab CI, Jenkins and Docker
+- **Test & defect management** with Jira, Xray, Confluence and Allure Reports
+- **AI-assisted test development** with GitHub Copilot and Claude Code
 
-* Playwright
-* Selenium WebDriver
-* Cypress
-* Cucumber (BDD)
+**Results at ITGate Group:** 40 % less manual regression effort through automation · ~20 % fewer production defects.
 
-### API Testing
+---
 
-* Postman
-* REST Assured
-* REST API Testing
+## 📂 Featured projects
 
-### Programming
+| Project | What it shows | Stack |
+|---|---|---|
+| [selenium-web-testing](https://github.com/boubakerwassim/selenium-web-testing) | UI test automation framework with Page Object Model, explicit waits, headless runs and a GitHub Actions workflow | Java 17 · Selenium 4 · TestNG · Maven |
+| [qa-automation-framework](https://github.com/boubakerwassim/qa-automation-framework) | BDD and Pytest test framework with Page Object Model, plus a Playwright module | Python · Selenium · Playwright · Behave · Pytest |
+| [qa-cicd-project](https://github.com/boubakerwassim/qa-cicd-project) | Headless Selenium UI test running automatically in GitHub Actions on every push | Python · Selenium · GitHub Actions |
 
-* Java
-* Python
-* SQL
+---
 
-### DevOps & CI/CD
+## 🛠️ Tech stack
 
-* Git
-* GitLab
-* GitHub Actions
-* Jenkins
-* Docker
-* Maven
-
-### QA & Collaboration
-
-* Jira
-* Jira Xray
-* Agile Scrum
-* TestNG
-* JUnit
-
-### Cloud
-
-* AWS
-* Microsoft Azure
+**Test automation:** Playwright · Selenium WebDriver · Cypress · WebDriverIO · TestNG · JUnit · Pytest · Cucumber / Behave (BDD)  
+**API testing:** Postman · REST-Assured · SoapUI  
+**Programming:** Java · Python · JavaScript · SQL  
+**CI/CD & DevOps:** GitHub Actions · GitLab CI · Jenkins · Docker · Maven · Git  
+**Test management:** Jira · Xray · TestRail · Confluence · Allure Reports  
+**Cloud:** AWS · Microsoft Azure  
+**AI tools:** GitHub Copilot · Claude Code
 
 ---
 
 ## 🏆 Certifications
 
-* ✅ ISTQB Certified Tester – Foundation Level (CTFL v4.0)
-* ✅ AWS Certified Solutions Architect – Associate
-* ✅ Oracle Certified Professional – Java SE 17 Developer
-* ✅ Spring Certified Professional
+- ISTQB® Certified Tester – Foundation Level (CTFL v4.0)
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Professional – Java SE 17 Developer
+- Spring Certified Professional
 
----
-
-## 🌐 Portfolio
-
-🔗 https://boubakerwassim.github.io
-
----
-
-## 💼 Experience
-
-**QA Engineer – ITGate Group**
-📍 Sousse, Tunisia
-
-* Designed and executed manual and automated test cases.
-* Developed UI automation using Playwright, Selenium, and Cypress.
-* Performed REST API testing with Postman and REST Assured.
-* Reported and tracked defects using Jira Xray.
-* Integrated automated tests into CI/CD pipelines.
-* Collaborated with developers in Agile Scrum teams.
+🎓 Master's degree in Cybersecurity – recognized in Germany by ZAB/KMK as equivalent to a German Master's degree.
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** [wassim.boubaker12@gmail.com](mailto:wassim.boubaker12@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/wassim-boubaker
-
-🌍 **Portfolio:** https://boubakerwassim.github.io
-
----
-
-⭐ Feel free to explore my repositories and connect with me. I'm always interested in QA Automation, Software Testing, and new opportunities.
+- 💼 LinkedIn: [linkedin.com/in/wassim-boubaker](https://www.linkedin.com/in/wassim-boubaker)
+- 🌍 Portfolio: [boubakerwassim.github.io](https://boubakerwassim.github.io)
+- 📧 E-Mail: wassim.boubaker12@gmail.com
