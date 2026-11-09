@@ -25,7 +25,7 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 - **Log analysis:** Windows security events reviewed in the Wazuh Dashboard and in JSON log files
 - **Detection test:** test event generated with `eventcreate`, collection and processing verified; alerts from CIS Microsoft Windows 11 Enterprise Benchmark rules analyzed
 
-## 🧪 Personal SOC lab
+## 🧪 Personal SOC lab (since 08/2026)
 
 - Mac with **UTM/QEMU** → Ubuntu VM running **Wazuh 4.14.9**; physical **Windows 11** laptop as monitored endpoint
 - Network configuration between VM and physical host, agent deployment, Windows event collection, alert verification, troubleshooting agent communication
