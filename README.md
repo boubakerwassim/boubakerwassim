@@ -2,31 +2,44 @@
 
 **Junior SOC Analyst · Cybersecurity (M.Sc.) · IT Support 1st Level · Berlin 🇩🇪**
 
-Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience building a **SOC environment with Wazuh**, analyzing logs and detecting security incidents — backed by professional experience in **1st level IT support**.
+Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience with **Wazuh (SIEM/XDR)** from my Master's project and a personal lab — collecting and analyzing Windows security events and alerts — backed by professional experience in **1st level IT support**.
 
-🌍 Based in Berlin · German C1 · English B2 · French B2 · Arabic (native)
-> 📍 open to roles across Germany (on-site, hybrid, remote) · available immediately
+> 🇩🇪 Deutsch C1 · 🇬🇧 English B2 · 🇫🇷 Français B2 · Arabic (native)
+> 📍 Berlin – open to roles across Germany (on-site, hybrid, remote) · available immediately
 
 ---
 
-## 🛡️ What I do
+## 💼 Professional experience
 
-- **SOC & monitoring:** Wazuh (SIEM/XDR) installation and configuration — manager and agents on Windows and Linux endpoints
-- **Log analysis:** centralized log collection, alert review and detection of security incidents
-- **Penetration testing:** identifying vulnerabilities to understand attacker techniques and improve detection
-- **IT support (1st level):** ticket handling, troubleshooting, user and access management, escalation to 2nd level
-- **Security awareness in daily support:** identifying and reporting suspicious emails and phishing
+**IT Support (1st Level) — ITGate Group, Tunisia · 01/2025 – 10/2025**
+- 1st level IT support: resolving technical problems for users
+- Troubleshooting hardware and software issues on Windows and Linux
+- Basic IT administration and network troubleshooting (TCP/IP, IP addressing, ports and services)
+
+---
+
+## 🎓 Master's project — Pentesting & SOC with Wazuh (ISSAT Gafsa, 2024)
+
+- **Pentesting:** reconnaissance, network scanning and service identification with Nmap, vulnerability identification, analysis of results
+- **Wazuh deployment:** Ubuntu server with Wazuh Manager, Indexer, Dashboard and Filebeat; Wazuh agent registered on a Windows 11 endpoint
+- **Log analysis:** Windows security events reviewed in the Wazuh Dashboard and in JSON log files
+- **Detection test:** test event generated with `eventcreate`, collection and processing verified; alerts from CIS Microsoft Windows 11 Enterprise Benchmark rules analyzed
+
+## 🧪 Personal SOC lab
+
+- Mac with **UTM/QEMU** → Ubuntu VM running **Wazuh 4.14.9**; physical **Windows 11** laptop as monitored endpoint
+- Network configuration between VM and physical host, agent deployment, Windows event collection, alert verification, troubleshooting agent communication
 
 ---
 
 ## 🛠️ Skills
 
-**Security operations:** Wazuh · SIEM · Log Analysis · Endpoint Monitoring · Incident Detection  
-**Offensive security:** Penetration Testing · Vulnerability Identification  
-**Systems & network:** Windows · Linux · Networking (LAN/Wi-Fi, VPN)  
-**IT support:** Ticketing (Jira) · Troubleshooting · User Management  
-**Scripting & tools:** Python · SQL · Java · Git · Docker  
-**Cloud:** AWS · Microsoft Azure
+**Security operations:** Wazuh · SIEM · Security Monitoring · Log Analysis · Alert Analysis · Windows Event Logs  
+**Offensive security:** Penetration Testing · Vulnerability Assessment · Nmap · Wireshark  
+**Systems & network:** Windows 11 · Ubuntu Linux · TCP/IP · IP addressing · Ports & services · HTTP/HTTPS · Network troubleshooting  
+**Virtualization:** UTM / QEMU · Virtual machines  
+**Programming & tools:** Python · Java · JavaScript · SQL · Git  
+**Cloud:** AWS
 
 ---
 
