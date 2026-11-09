@@ -4,7 +4,7 @@
 
 Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience building a **SOC environment with Wazuh**, analyzing logs and detecting security incidents — backed by professional experience in **1st level IT support**.
 
-🌍 Based in Berlin · German C1 · English B1 · French B2 · Arabic (native)
+🌍 Based in Berlin · German C1 · English B2 · French B2 · Arabic (native)
 > 📍 open to roles across Germany (on-site, hybrid, remote) · available immediately
 
 ---
