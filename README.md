@@ -27,6 +27,8 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 
 ## 🧪 Personal SOC lab (since 08/2026)
 
+📂 Documentation: [wazuh-soc-lab](https://github.com/boubakerwassim/wazuh-soc-lab)
+
 - Mac with **UTM/QEMU** → Ubuntu VM running **Wazuh 4.14.9**; physical **Windows 11** laptop as monitored endpoint
 - Network configuration between VM and physical host, agent deployment, Windows event collection, alert verification, troubleshooting agent communication
 
