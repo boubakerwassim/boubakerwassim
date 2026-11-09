@@ -1,64 +1,47 @@
 # Hi, I'm Wassim Boubaker 👋
 
-**QA Engineer / Softwaretester · Test Automation Engineer · ISTQB CTFL v4.0 · Berlin 🇩🇪**
+**Junior SOC Analyst · Cybersecurity (M.Sc.) · IT Support 1st Level · Berlin 🇩🇪**
 
-ISTQB-certified QA Engineer with ~1.5 years of hands-on experience in **manual testing and test automation** of web and API applications in agile Scrum teams. I build maintainable UI test suites with **Playwright, Selenium and Cypress**, test REST APIs with **Postman and REST-Assured**, and run tests in **CI/CD pipelines**.
+Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience building a **SOC environment with Wazuh**, analyzing logs and detecting security incidents — backed by professional experience in **1st level IT support**.
 
 > 🇩🇪 Deutsch C1 · 🇬🇧 English B2 · 🇫🇷 Français B2 · Arabic (native)
 > 📍 Berlin – open to roles across Germany (on-site, hybrid, remote) · available immediately
 
 ---
 
-## 🔧 What I do
+## 🛡️ What I do
 
-- **Manual & exploratory testing** of new features from the user's perspective
-- **Test case design** from user stories and requirements (120+ documented test cases)
-- **Regression, smoke and end-to-end tests**, manual and automated
-- **UI test automation** with Playwright, Selenium and Cypress (Page Object Model, BDD/Cucumber)
-- **API testing** with Postman and REST-Assured
-- **CI/CD integration** with GitHub Actions, GitLab CI, Jenkins and Docker
-- **Test & defect management** with Jira, Xray, Confluence and Allure Reports
-- **AI-assisted test development** with GitHub Copilot and Claude Code
-
-**Results at ITGate Group:** 40 % less manual regression effort through automation · ~20 % fewer production defects.
+- **SOC & monitoring:** Wazuh (SIEM/XDR) installation and configuration — manager and agents on Windows and Linux endpoints
+- **Log analysis:** centralized log collection, alert review and detection of security incidents
+- **Penetration testing:** identifying vulnerabilities to understand attacker techniques and improve detection
+- **IT support (1st level):** ticket handling, troubleshooting, user and access management, escalation to 2nd level
+- **Security awareness in daily support:** identifying and reporting suspicious emails and phishing
 
 ---
 
-## 📂 Featured projects
+## 🛠️ Skills
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [selenium-web-testing](https://github.com/boubakerwassim/selenium-web-testing) | UI test automation framework with Page Object Model, explicit waits, headless runs and a GitHub Actions workflow | Java 17 · Selenium 4 · TestNG · Maven |
-| [qa-automation-framework](https://github.com/boubakerwassim/qa-automation-framework) | BDD and Pytest test framework with Page Object Model, plus a Playwright module | Python · Selenium · Playwright · Behave · Pytest |
-| [qa-cicd-project](https://github.com/boubakerwassim/qa-cicd-project) | Headless Selenium UI test running automatically in GitHub Actions on every push | Python · Selenium · GitHub Actions |
-
----
-
-## 🛠️ Tech stack
-
-**Test automation:** Playwright · Selenium WebDriver · Cypress · WebDriverIO · TestNG · JUnit · Pytest · Cucumber / Behave (BDD)  
-**API testing:** Postman · REST-Assured · SoapUI  
-**Programming:** Java · Python · JavaScript · SQL  
-**CI/CD & DevOps:** GitHub Actions · GitLab CI · Jenkins · Docker · Maven · Git  
-**Test management:** Jira · Xray · TestRail · Confluence · Allure Reports  
-**Cloud:** AWS · Microsoft Azure  
-**AI tools:** GitHub Copilot · Claude Code
+**Security operations:** Wazuh · SIEM · Log Analysis · Endpoint Monitoring · Incident Detection  
+**Offensive security:** Penetration Testing · Vulnerability Identification  
+**Systems & network:** Windows · Linux · Networking (LAN/Wi-Fi, VPN)  
+**IT support:** Ticketing (Jira) · Troubleshooting · User Management  
+**Scripting & tools:** Python · SQL · Java · Git · Docker  
+**Cloud:** AWS · Microsoft Azure
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & education
 
-- ISTQB® Certified Tester – Foundation Level (CTFL v4.0)
+- 🎓 Master's degree in Cybersecurity – ISSAT Gafsa (recognized by ZAB/KMK, Ref. LN2025/69865-1)
 - AWS Certified Solutions Architect – Associate
+- ISTQB® Certified Tester – Foundation Level (CTFL v4.0)
 - Oracle Certified Professional – Java SE 17 Developer
 - Spring Certified Professional
-
-🎓 Master's degree in Cybersecurity – recognized in Germany by ZAB/KMK as equivalent to a German Master's degree.
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/wassim-boubaker](https://www.linkedin.com/in/wassim-boubaker)
 - 🌍 Portfolio: [boubakerwassim.github.io](https://boubakerwassim.github.io)
+- 💼 LinkedIn: [linkedin.com/in/wassim-boubaker](https://www.linkedin.com/in/wassim-boubaker)
 - 📧 E-Mail: wassim.boubaker12@gmail.com
