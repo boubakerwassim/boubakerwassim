@@ -1,8 +1,8 @@
 # Hi, I'm Wassim Boubaker 👋
 
-**Junior SOC Analyst · Cybersecurity (M.Sc.) · IT Support 1st Level · Berlin 🇩🇪**
+**Junior SOC Analyst · Cybersecurity (M.Sc.) · Wazuh · Wireshark · Nmap · Berlin 🇩🇪**
 
-Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience with **Wazuh (SIEM/XDR)** from my Master's project and a personal lab — collecting and analyzing Windows security events and alerts — backed by professional experience in **1st level IT support**.
+Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equivalent to a German Master's) looking for a junior role in **security operations** in Germany. Hands-on experience with **Wazuh (SIEM/XDR)** from my Master's project and a personal lab — collecting and analyzing Windows security events and alerts — backed by professional experience as a **Junior SOC Analyst**.
 
 > 🇩🇪 Deutsch C1 · 🇬🇧 English B2 · 🇫🇷 Français B2 · Arabic (native)
 > 📍 Berlin – open to roles across Germany (on-site, hybrid, remote) · available immediately
@@ -11,10 +11,11 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 
 ## 💼 Professional experience
 
-**IT Support (1st Level) — ITGate Group, Tunisia · 01/2025 – 06/2025**
-- 1st level IT support: resolving technical problems for users
-- Troubleshooting hardware and software issues on Windows and Linux
-- Basic IT administration and network troubleshooting (TCP/IP, IP addressing, ports and services)
+**Junior SOC Analyst — ITGate Group, Tunisia · 01/2025 – 06/2025**
+- Monitored and analyzed security events with Wazuh SIEM
+- Analyzed network traffic with Wireshark to identify suspicious communication patterns
+- Performed network scans and identified open ports and running services with Nmap
+- Wrote technical security reports and documented analysis results
 
 ---
 
