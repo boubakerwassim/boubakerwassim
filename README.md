@@ -11,7 +11,7 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 
 ## 💼 Professional experience
 
-**IT Support (1st Level) — ITGate Group, Tunisia · 01/2025 – 10/2025**
+**IT Support (1st Level) — ITGate Group, Tunisia · 01/2025 – 06/2025**
 - 1st level IT support: resolving technical problems for users
 - Troubleshooting hardware and software issues on Windows and Linux
 - Basic IT administration and network troubleshooting (TCP/IP, IP addressing, ports and services)
@@ -25,12 +25,14 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 - **Log analysis:** Windows security events reviewed in the Wazuh Dashboard and in JSON log files
 - **Detection test:** test event generated with `eventcreate`, collection and processing verified; alerts from CIS Microsoft Windows 11 Enterprise Benchmark rules analyzed
 
-## 🧪 Personal SOC lab (since 08/2026)
+## 🧪 Hands-on SOC project – Security Monitoring & Incident Detection (personal lab, since 08/2026)
 
-📂 Documentation: [wazuh-soc-lab](https://github.com/boubakerwassim/wazuh-soc-lab)
+📂 Documentation: [wazuh-soc-lab](https://github.com/boubakerwassim/wazuh-soc-lab) · **Wazuh · Wireshark · Ubuntu · Windows 11**
 
-- Mac with **UTM/QEMU** → Ubuntu VM running **Wazuh 4.14.9**; physical **Windows 11** laptop as monitored endpoint
-- Network configuration between VM and physical host, agent deployment, Windows event collection, alert verification, troubleshooting agent communication
+- Built and configured a SOC lab with **Wazuh SIEM** on Ubuntu (UTM/QEMU on a Mac); connected and monitored a physical **Windows 11** endpoint
+- Monitored and analyzed Windows security events, especially failed logons (**Event ID 4625**), and investigated the related Wazuh alerts
+- Assessed security-relevant events using log data, event IDs, source IP addresses and Wazuh detection rules
+- Tested the detection pipeline with simulated Windows events, verified alert generation and documented the findings
 
 ---
 
@@ -48,6 +50,8 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 ## 🏆 Certifications & education
 
 - 🎓 Master's degree in Cybersecurity – ISSAT Gafsa (recognized by ZAB/KMK, Ref. LN2025/69865-1)
+- 🇩🇪 Professional German language course (Berufssprachkurs) – BBAG e.V., Potsdam · 02/2026 – 07/2026
+- 🇩🇪 German language course – IDAF, Tunis · 07/2025 – 11/2025 · B1 certificate
 - AWS Certified Solutions Architect – Associate
 - ISTQB® Certified Tester – Foundation Level (CTFL v4.0)
 - Oracle Certified Professional – Java SE 17 Developer
