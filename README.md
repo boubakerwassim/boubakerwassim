@@ -52,7 +52,6 @@ Cybersecurity graduate (Master's degree, recognized in Germany by ZAB/KMK as equ
 
 - 🎓 Master's degree in Cybersecurity – ISSAT Gafsa (recognized by ZAB/KMK, Ref. LN2025/69865-1)
 - 🇩🇪 Professional German language course (Berufssprachkurs) – BBAG e.V., Potsdam · 02/2026 – 07/2026
-- 🇩🇪 German language course – IDAF, Tunis · 07/2025 – 11/2025 · B1 certificate
 - AWS Certified Solutions Architect – Associate
 - ISTQB® Certified Tester – Foundation Level (CTFL v4.0)
 - Oracle Certified Professional – Java SE 17 Developer
